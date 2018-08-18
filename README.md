@@ -1,5 +1,5 @@
 # Foster Care Analysis
-An investigation of service and outcomes data for youth transitioning out of foster care using Python.
+An investigation of service and outcomes data for youth transitioning out of foster care using Python and Tableau.
 
 
 # Project Overview
